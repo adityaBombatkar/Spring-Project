@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+#Configuration properties, you can add many more properties here
+accounts:
+  message: "Welcome to AdiBank application in your accounts"
+  contactDetails:
+    name: "Aditya Bombatkar"
+    email: "adubombatkar@gmail.com"
+  onCallSupport:
+    -8805893701
+    -9451922722

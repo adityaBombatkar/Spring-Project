@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+#Configuration properties, you can add many more properties here
+cards:
+  message: "Welcome to AdiBank application in your cards handled by QA"
+  contactDetails:
+    name: "Samruddhi Bombatkar"
+    email: "panadabombatkar@gmail.com"
+  onCallSupport:
+    -"8805893701"
+    -"(245) 555 741"

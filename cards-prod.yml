@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+#Configuration properties, you can add many more properties here
+cards:
+  message: "Welcome to AdiBank application in your cards handled by developer"
+  contactDetails:
+    name: "Aditya Bombatkar - (Developer)"
+    email: "adubombatkar@gmail.com"
+  onCallSupport:
+    -8805893701
+    -(555) 247 369
