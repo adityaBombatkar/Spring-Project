@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to AdiBank application in your PROD accounts handled by Aditya"
   contactDetails:
     name: "Aditya Bombatkar - Developer"
-    email: "adityabombatkar03@gmail.com"
+    email: "{cipher}a06be17e71f173cb45e720310888f9c7e8f79f9fcc6ca24b72365cf5e56ac67bca076a985678c95d09240a7660312c31"
   onCallSupport:
     -8805893701
     -(246) 555 963
