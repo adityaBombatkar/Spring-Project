@@ -3,7 +3,7 @@ build:
 
 #Configuration properties, you can add many more properties here
 cards:
-  message: "Welcome to AdiBank application in your cards handled by PROD"
+  message: "Welcome to AdiBank application in your cards handled by PROD Developer"
   contactDetails:
     name: "Aditya Bombatkar - (Developer)"
     email: "adubombatkar@gmail.com"
