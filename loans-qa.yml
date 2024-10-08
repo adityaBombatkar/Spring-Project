@@ -3,7 +3,7 @@ build:
 
 #Configuration properties, you can add many more properties here
 cards:
-  message: "Welcome to AdiBank application in your cards handled by QA"
+  message: "Welcome to AdiBank application in your cards handled by Quality Assurance"
   contactDetails:
     name: "Samruddhi Bombatkar"
     email: "panadabombatkar@gmail.com"
